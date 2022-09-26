@@ -4,6 +4,7 @@
 
 ![SpinnerX's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpinnerX&hide=contribs,prs)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpinnerX&show_icons=true)
 <!--
 **SpinnerX/SpinnerX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
