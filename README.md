@@ -3,7 +3,7 @@
 ![SpinnerX's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpinnerX&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpinnerX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SpinnerX)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SpinnerX/SpinnerX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
