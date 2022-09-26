@@ -1,4 +1,4 @@
-![SpinnerX's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpinnerX&bg_color=00000000&hide_border=true&text_color=0086BA&custom_title=SpinnerX Stats&hide=contribs,prs)
+![SpinnerX's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpinnerX&bg_color=00000000&hide_border=true&text_color=0086BA&custom_title=SpinnerXStats&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpinnerX&langs_count=5&bg_color=00000000&hide_border=true&text_color=0086BA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
