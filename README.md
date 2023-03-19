@@ -47,6 +47,10 @@ I am a back-end software developer building a version of myself in the digital w
 
 <img align="left" alt="OpenCV" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg"/>
 
+<img align="left" alt="OpenGL" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"/>
+
+<img align="left" alt="SDL" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg"/>
+
 <img align="left" alt="Docker" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
 
 <br/>
