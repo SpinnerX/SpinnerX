@@ -1,6 +1,6 @@
 # Aaron Her
 
-** `Software Develpoer` **
+**`Software Develpoer`**
 
 I am a back-end software developer building a version of myself in the digital world with a single moment at a time. All programming projects built, have an inspiration through personal and academic interests that I have. Which focus in solving real-life problems through code.
 
