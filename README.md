@@ -6,6 +6,9 @@ I am a back-end software developer building a version of myself in the digital w
 
 ### Languages and Frameworks
 
+<img align="left" alg="C++" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
+
+
 ![SpinnerX's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpinnerX&bg_color=00000000&hide_border=true&text_color=0086BA&custom_title=Stats&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpinnerX&bg_color=00000000&hide_border=true&text_color=0086BA&title_color=0086BA)](https://github.com/anuraghazra/github-readme-stats)
