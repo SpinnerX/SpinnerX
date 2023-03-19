@@ -32,6 +32,9 @@ I am a back-end software developer building a version of myself in the digital w
 
 <img align="left" alt="Cmake" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"/>
 
+
+<img align="left" alt="VSCode" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
+
 <img align="left" alt="Git" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 <img align="left" alt="Bash" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
@@ -55,6 +58,14 @@ I am a back-end software developer building a version of myself in the digital w
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpinnerX&bg_color=00000000&hide_border=true&text_color=0086BA&title_color=0086BA)](https://github.com/anuraghazra/github-readme-stats)
 
 [![SpinnerX's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spinnerX&bg_color=00000000&hide_border=true&text_color=0086BA)](https://github.com/anuraghazra/github-readme-stats)
+
+<details>
+  <summary><hi>My Programming Journey </hi></summary>
+  
+  My programming journey started with an introductory class to C++ in my first year, followed by the upcoming semester was learning Java and Android development. After that, I took a course to taught Python and Git as part of the curriculum, and applied software design patterns to my Python applications. By the end of my first year, I had developed my first full application in Python and was just starting my second year to learning data structures and algorithms.  Following up the next semester I took a discrete mathematics class taught as a programming class. Where I learned implementing graph theory, set theory, etc. Which in my third I learned much more emphasis such as shell scripting, automation, build environments, etc.
+  
+</details>
+
 
 <!--
 **SpinnerX/SpinnerX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
