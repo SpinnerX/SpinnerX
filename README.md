@@ -60,7 +60,7 @@ I am a back-end software developer building a version of myself in the digital w
 [![SpinnerX's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spinnerX&bg_color=00000000&hide_border=true&text_color=0086BA)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
-  <summary><hi>My Programming Journey </hi></summary>
+  <summary><h3>My Programming Journey </h3></summary>
   
   My programming journey started with an introductory class to C++ in my first year, followed by the upcoming semester was learning Java and Android development. After that, I took a course to taught Python and Git as part of the curriculum, and applied software design patterns to my Python applications. By the end of my first year, I had developed my first full application in Python and was just starting my second year to learning data structures and algorithms.  Following up the next semester I took a discrete mathematics class taught as a programming class. Where I learned implementing graph theory, set theory, etc. Which in my third I learned much more emphasis such as shell scripting, automation, build environments, etc.
   
