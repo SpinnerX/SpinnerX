@@ -6,8 +6,26 @@ I am a back-end software developer building a version of myself in the digital w
 
 ### Languages and Frameworks
 
-<img align="left" alt="C++" bg="0086BA" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
+<img align="left" alt="C++" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 
+<img align="left" alt="C++" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+
+<img align="left" alt="C++" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+
+<img align="left" alt="C++" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+<img align="left" alt="C++" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+
+<img align="left" alt="C++" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+
+<img align="left" alt="C++" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/>
+
+<img align="left" alt="C++" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
+
+
+<br/>
+
+#
 
 ![SpinnerX's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpinnerX&bg_color=00000000&hide_border=true&text_color=0086BA&custom_title=Stats&hide=contribs,prs)
 
