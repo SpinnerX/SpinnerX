@@ -11,7 +11,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Back-end%20Software%20Developer;4%2B%20Programming%20Experience;Excited%20to%20Learning%20New%20Things&center=true&width=440&height=45&pause=1000" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Back-end%20Software%20Developer;5%2B%20Programming%20Experience;Excited%20to%20Learning%20New%20Things&center=true&width=440&height=45&pause=1000" /></a>
 </p>
 
 I am a back-end software developer building a version of myself in the digital world with a single moment at a time. Programming projects that I have built, have an inspiration through personal and academic interests that I have. Which focus in solving real-life problems through code.
