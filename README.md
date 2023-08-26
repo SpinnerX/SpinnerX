@@ -1,20 +1,18 @@
-<!-- <p align="center">
-  <h3 align="center"> Aaron Her </h3>
-</p>
--->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" width="100"/>
+</div>
 
 <p align="center" style="font-size:50px;">
   <a href="https://github.com/SpinnerX">
-    <img src=""  alt="Aaron Her" /></a>
+    <img src=""  alt="Hello there! Aaron here! 👋" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Back-end%20Software%20Engineer;5%2B%20Programming%20Experience;Excited%20to%20Learning%20New%20Things&center=true&width=440&height=45&pause=1000" /></a>
+    <!--<img src="https://readme-typing-svg.demolab.com/?lines=Embedded%20Software%20Engineer;5%2B%20Programming%20Experience;Excited%20to%20Learning%20New%20Things&center=true&width=440&height=45&pause=1000" /></a>-->
+    <img src="https://readme-typing-svg.demolab.com/?lines=Embedded%20Software%20Engineer;Enjoy%20building%20things%20from%20inspiration&center=true&width=440&height=45&pause=1000" /></a>
 </p>
-
-I am a back-end software developer building a version of myself in the digital world with a single moment at a time. Programming projects that I have built, have an inspiration through personal and academic interests that I have. Which focus in solving real-life problems through code.
 
 
 <p align="center">
@@ -22,40 +20,41 @@ I am a back-end software developer building a version of myself in the digital w
     <img alt="Portfolios" title="Portfolios" src="https://custom-icon-badges.demolab.com/badge/-Portfolios-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-### 💻 Languages and Frameworks
+## 💻 Languages and Tools
 
-<img align="left" alt="C++" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-
-<img align="left" alt="Java" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-
-<img align="left" alt="Python" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
-<img align="left" alt="Cmake" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"/>
-
-
-<img align="left" alt="VSCode" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
-
-<img align="left" alt="Git" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
-<img align="left" alt="Bash" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-
-<img align="left" alt="Linux" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-
-<img align="left" alt="Arduino" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/>
-
-<img align="left" alt="RPi" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
-
-<img align="left" alt="OpenCV" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg"/>
-
-<img align="left" alt="OpenGL" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"/>
-
-<img align="left" alt="SDL" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg"/>
-
-<img align="left" alt="Docker" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
-
+<div>
+  <img align="left" alt="C" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="left" alt="C++" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  
+  <img align="left" alt="Java" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+  
+  <img align="left" alt="Python" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  
+  <img align="left" alt="Cmake" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"/>
+  
+  
+  <img align="left" alt="VSCode" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
+  
+  <img align="left" alt="Git" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  
+  <img align="left" alt="Bash" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+  
+  <img align="left" alt="Linux" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  
+  <img align="left" alt="Arduino" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/>
+  
+  <img align="left" alt="RPi" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
+  
+  <img align="left" alt="OpenCV" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg"/>
+  
+  <img align="left" alt="OpenGL" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"/>
+  
+  <img align="left" alt="SDL" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg"/>
+  
+  <img align="left" alt="Docker" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
+</div>
+<!-->
 <br/>
-
-#
 
 ![SpinnerX's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpinnerX&bg_color=00000000&hide_border=true&text_color=0086BA&custom_title=Stats&hide=contribs,prs)
 
@@ -64,9 +63,9 @@ I am a back-end software developer building a version of myself in the digital w
 [![SpinnerX's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SpinnerX&bg_color=00000000&hide_border=true&text_color=0086BA)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
-  <summary><h3>My Programming Journey </h3></summary>
+  <summary><h3> My Developers Journey </h3></summary>
   
-  My programming journey started with an introductory class to C++ in my first year, followed by the upcoming semester was learning Java and Android development. After that, I took a course to taught Python and Git as part of the curriculum, and applied software design patterns to my Python applications. By the end of my first year, I had developed my first full application in Python and was just starting my second year to learning data structures and algorithms.  Following up the next semester I took a discrete mathematics class taught as a programming class. Where I learned implementing graph theory, set theory, etc. Which in my third I learned much more emphasis such as shell scripting, automation, build environments, etc.
+  It all began at community college, where I first discovered my passion for programming in an introductory C++ course designed for business majors. Despite struggling in school, I continued my programming journey by taking courses in Java, Android development, and Python. Within a year, I was fully committed to pursuing a Computer Science major. I delved into data structures and algorithms, mastering fundamental approaches and utilizing different data structures. Over the years, I expanded my skills further, studying discrete mathematics, unit test-driven development, software design patterns, and automation scripting using tcsh and bash. Along the way, I became proficient in using terminal utility tools. This long journey led me to be a very versatile embedded software engineer, pursuing a single specialty.
   
 </details>
 
