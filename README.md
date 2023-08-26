@@ -4,14 +4,14 @@
 
 <p align="center" style="font-size:50px;">
   <a href="https://github.com/SpinnerX">
-    <img src=""  alt="Hello there! Aaron here! 👋" /></a>
+    <img src=""  alt="Hey there! 👋" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <!--<img src="https://readme-typing-svg.demolab.com/?lines=Embedded%20Software%20Engineer;5%2B%20Programming%20Experience;Excited%20to%20Learning%20New%20Things&center=true&width=440&height=45&pause=1000" /></a>-->
-    <img src="https://readme-typing-svg.demolab.com/?lines=Embedded%20Software%20Engineer;Passion%20Building%20things%20from%20inspiration&center=true&width=440&height=45&pause=1000" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Embedded%20Software%20Engineer;Builds%20stuff%20with%20inspiration&center=true&width=440&height=45&pause=1000" /></a>
 </p>
 
 
