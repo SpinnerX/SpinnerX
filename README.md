@@ -20,7 +20,7 @@
     <img alt="Portfolios" title="Portfolios" src="https://custom-icon-badges.demolab.com/badge/-Portfolios-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-## 💻 Languages and Tools
+## 💻 Technical and Frameworks
 
 <div>
   <img align="left" alt="C" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
