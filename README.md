@@ -63,9 +63,10 @@
 [![SpinnerX's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SpinnerX&bg_color=00000000&hide_border=true&text_color=0086BA)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
-  <summary><h3> My Developers Journey </h3></summary>
-  
-  It all began at community college, where I first discovered my passion for programming in an introductory C++ course designed for business majors. Despite struggling in school, I continued my programming journey by taking courses in Java, Android development, and Python. Within a year, I was fully committed to pursuing a Computer Science major. I delved into data structures and algorithms, mastering fundamental approaches and utilizing different data structures. Over the years, I expanded my skills further, studying discrete mathematics, unit test-driven development, software design patterns, and automation scripting using tcsh and bash. Along the way, I became proficient in using terminal utility tools. This long journey led me to be a very versatile embedded software engineer, pursuing a single specialty.
+  <summary><h3> About Me </h3></summary>
+  Hello there! Good fellow wanderer, you have stumbled upon my "About Me" page, eh?
+
+  Here is a bit about me. A student majoring in the realm of Computer Science major at San Francisco State University. Where I like to do embedded systems development. Where I build cool and fun projects. What I do for fun is simply exploring my ideas and being creative with hardware development. Exploration ranging from programming microcontrollers, to delving into PCB design, and other forms of embedded systems.
   
 </details>
 
