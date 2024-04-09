@@ -10,9 +10,9 @@
 <p>
   <img align="right" height="300" width="300" src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoys developing projects<br/><br/>
- ❤️ &emsp; Loves to learn new things and work on new features <br/><br/>
- 👨‍💻 &emsp; Loves going to Hackathons, when I can<br/><br/>
+ ✌️ &emsp; Enjoys working on projects<br/><br/>
+ ❤️ &emsp; Loves to learn new things and exploring new features<br/><br/>
+ 👨‍💻 &emsp; Has fun participating in Hackathons, when I can<br/><br/>
  🫡 &emsp; Adventurous in exploring new things in low level tech<br/><br/>
 </p>
 
