@@ -21,7 +21,7 @@
 <br/>
 
 <!-- Information on my tech stack -->
-## 💻 Tech Stack I Use
+## 💻 Tech and Topics
 <!-- @note + is special char in query part, so encode it by doing %2B -->
 ![C++](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&labelColor=403C3D&logo=c%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=403C3D&logo=openjdk&logoColor=White)
@@ -36,6 +36,12 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&labelColor=403C3D&logo=GNUBash&logoColor=4EAA25)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&labelColor=403C3D&logo=Zsh&logoColor=F15A24)
 ![Compiler_Explorer](https://img.shields.io/badge/Compiler_Explorer-67C52A?style=for-the-badge&labelColor=403C3D&logo=CompilerExplorer&logoColor=67C52A)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&labelColor=403C3D&logo=OpenGL&logoColor=5586A4)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&labelColor=403C3D&logo=Vulkan&logoColor=AC162C)
+![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&labelColor=403C3D&logo=SFML&logoColor=8CC445)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&labelColor=403C3D&logo=Qt&logoColor=41CD52)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&labelColor=403C3D&logo=FFmpeg&logoColor=007808)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&labelColor=403C3D&logo=PyTorch&logoColor=EE4C2C)
 
 <!--
 Showcasing what are current projects that I am working/contributing too
