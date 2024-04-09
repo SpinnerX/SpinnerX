@@ -28,7 +28,6 @@
 ![Python](https://img.shields.io/badge/Python-006BFF?style=for-the-badge&labelColor=403C3D&logo=python&logoColor=006BFF)
 ![Git](https://img.shields.io/badge/Git-6E9F18?style=for-the-badge&labelColor=403C3D&logo=git&logoColor=7FE719)
 ![CMake](https://img.shields.io/badge/CMake-ED1C24?style=for-the-badge&labelColor=403C3D&logo=git&logoColor=FA5C5C)
-![Linux](https://img.shields.io/badge/Linux-F15833?style=for-the-badge&labelColor=403C3D&logo=linux&logoColor=F15833)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&labelColor=403C3D&logo=Arduino&logoColor=00878F)
 ![Rpi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&labelColor=403C3D&logo=Raspberrypi&logoColor=A22846)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=403C3D&logo=Docker&logoColor=2496ED)
@@ -42,6 +41,13 @@
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&labelColor=403C3D&logo=Qt&logoColor=41CD52)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&labelColor=403C3D&logo=FFmpeg&logoColor=007808)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&labelColor=403C3D&logo=PyTorch&logoColor=EE4C2C)
+
+![NeoVim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&labelColor=403C3D&logo=Neovim&logoColor=57A143)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&labelColor=403C3D&logo=Vim&logoColor=019733)
+![VSCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&labelColor=403C3D&logo=VisualStudioCode&logoColor=007ACC)
+![Linux](https://img.shields.io/badge/Linux-F15833?style=for-the-badge&labelColor=403C3D&logo=linux&logoColor=F15833)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&labelColor=403C3D&logo=Windows&logoColor=0078D4)
+![MacOS](https://img.shields.io/badge/MacOS-00AF9C?style=for-the-badge&labelColor=403C3D&logo=MacOS&logoColor=00AF9C)
 
 <!--
 Showcasing what are current projects that I am working/contributing too
