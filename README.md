@@ -1,74 +1,50 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" width="100"/>
-</div>
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Heyo 
+                <b><a target="_blank" href="https://www.linkedin.com/in/aaron-her">Aaron</a></b>, here! Welcome to my page!
+        </samp>
+</h3>
 
-<p align="center" style="font-size:50px;">
-  <a href="https://github.com/SpinnerX">
-    <img src=""  alt="Hey there! 👋" /></a>
+<!-- About Me Information -->
+# Little About Me
+<p>
+  <img align="right" height="300" width="300" src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoys developing projects<br/><br/>
+ ❤️ &emsp; Loves to learn new things and work on new features <br/><br/>
+ 👨‍💻 &emsp; Loves going to Hackathons, when I can<br/><br/>
+ 🫡 &emsp; Adventurous in exploring new things in low level tech<br/><br/>
 </p>
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <!--<img src="https://readme-typing-svg.demolab.com/?lines=Embedded%20Software%20Engineer;5%2B%20Programming%20Experience;Excited%20to%20Learning%20New%20Things&center=true&width=440&height=45&pause=1000" /></a>-->
-    <img src="https://readme-typing-svg.demolab.com/?lines=Embedded%20Software%20Engineer;Builds%20stuff%20with%20inspiration&center=true&width=440&height=45&pause=1000" /></a>
-</p>
-
-
-<p align="center">
-    <a href="https://github.com/SpinnerX/Portfolios_2023">
-    <img alt="Portfolios" title="Portfolios" src="https://custom-icon-badges.demolab.com/badge/-Portfolios-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
-## 💻 Technical and Frameworks
-
-<div>
-  <img align="left" alt="C" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="left" alt="C++" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  
-  <img align="left" alt="Java" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  
-  <img align="left" alt="Python" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  
-  <img align="left" alt="Cmake" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"/>
-  
-  
-  <img align="left" alt="VSCode" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
-  
-  <img align="left" alt="Git" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  
-  <img align="left" alt="Bash" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-  
-  <img align="left" alt="Linux" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  
-  <img align="left" alt="Arduino" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/>
-  
-  <img align="left" alt="RPi" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
-  
-  <img align="left" alt="OpenCV" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg"/>
-  
-  <img align="left" alt="OpenGL" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"/>
-  
-  <img align="left" alt="SDL" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg"/>
-  
-  <img align="left" alt="Docker" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
-</div>
-<!-->
+<br/>
+<br/>
 <br/>
 
-![SpinnerX's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpinnerX&bg_color=00000000&hide_border=true&text_color=0086BA&custom_title=Stats&hide=contribs,prs)
+<!-- Information on my tech stack -->
+## 💻 Tech Stack I Use
+<!-- @note + is special char in query part, so encode it by doing %2B -->
+![C++](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&labelColor=403C3D&logo=c%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=403C3D&logo=openjdk&logoColor=White)
+![Python](https://img.shields.io/badge/Python-006BFF?style=for-the-badge&labelColor=403C3D&logo=python&logoColor=006BFF)
+![Git](https://img.shields.io/badge/Git-6E9F18?style=for-the-badge&labelColor=403C3D&logo=git&logoColor=7FE719)
+![CMake](https://img.shields.io/badge/CMake-ED1C24?style=for-the-badge&labelColor=403C3D&logo=git&logoColor=FA5C5C)
+![Linux](https://img.shields.io/badge/Linux-F15833?style=for-the-badge&labelColor=403C3D&logo=linux&logoColor=F15833)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&labelColor=403C3D&logo=Arduino&logoColor=00878F)
+![Rpi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&labelColor=403C3D&logo=Raspberrypi&logoColor=A22846)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=403C3D&logo=Docker&logoColor=2496ED)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&labelColor=403C3D&logo=OpenCV&logoColor=5C3EE8)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&labelColor=403C3D&logo=GNUBash&logoColor=4EAA25)
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&labelColor=403C3D&logo=Zsh&logoColor=F15A24)
+![Compiler_Explorer](https://img.shields.io/badge/Compiler_Explorer-67C52A?style=for-the-badge&labelColor=403C3D&logo=CompilerExplorer&logoColor=67C52A)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpinnerX&bg_color=00000000&hide_border=true&text_color=0086BA&title_color=0086BA)](https://github.com/anuraghazra/github-readme-stats)
-
-[![SpinnerX's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SpinnerX&bg_color=00000000&hide_border=true&text_color=0086BA)](https://github.com/anuraghazra/github-readme-stats)
-
-<details>
-  <summary><h3> About Me </h3></summary>
-  Hello there! Good fellow wanderer, you have stumbled upon my "About Me" page, eh?
-
-  Here is a bit about me. A student majoring in the realm of Computer Science major at San Francisco State University. Where I like to do embedded systems development. Where I build cool and fun projects. What I do for fun is simply exploring my ideas and being creative with hardware development. Exploration ranging from programming microcontrollers, to delving into PCB design, and other forms of embedded systems.
-  
-</details>
+<!--
+Showcasing what are current projects that I am working/contributing too
+This is the link to different themes for future reference, https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+-->
+## Current Open-Source Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=Engine_3D&theme=tokyonight)](https://github.com/SpinnerX/Engine_3D)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=A--Compiler&theme=tokyonight)](https://github.com/SpinnerX/A--Compiler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=urc-intelligent-systems-2023&theme=tokyonight)](https://github.com/SJSURoboticsTeam/urc-intelligent-systems-2023)
 
 
 <!--
