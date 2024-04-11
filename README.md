@@ -41,10 +41,11 @@
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&labelColor=403C3D&logo=Qt&logoColor=41CD52)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&labelColor=403C3D&logo=FFmpeg&logoColor=007808)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&labelColor=403C3D&logo=PyTorch&logoColor=EE4C2C)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&labelColor=403C3D&logo=PyTorch&logoColor=FF6F00)
 
 ![NeoVim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&labelColor=403C3D&logo=Neovim&logoColor=57A143)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&labelColor=403C3D&logo=Vim&logoColor=019733)
-![VSCode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&labelColor=403C3D&logo=VisualStudioCode&logoColor=007ACC)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&labelColor=403C3D&logo=VisualStudioCode&logoColor=007ACC)
 ![Linux](https://img.shields.io/badge/Linux-F15833?style=for-the-badge&labelColor=403C3D&logo=linux&logoColor=F15833)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&labelColor=403C3D&logo=Windows&logoColor=0078D4)
 ![MacOS](https://img.shields.io/badge/MacOS-00AF9C?style=for-the-badge&labelColor=403C3D&logo=MacOS&logoColor=00AF9C)
