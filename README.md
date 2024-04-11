@@ -24,7 +24,7 @@
 ## 💻 Tech and Topics
 <!-- @note + is special char in query part, so encode it by doing %2B -->
 ![C++](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&labelColor=403C3D&logo=c%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=403C3D&logo=openjdk&logoColor=White)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=403C3D&logo=openjdk&logoColor=ED8B00)
 ![Python](https://img.shields.io/badge/Python-006BFF?style=for-the-badge&labelColor=403C3D&logo=python&logoColor=006BFF)
 ![Git](https://img.shields.io/badge/Git-6E9F18?style=for-the-badge&labelColor=403C3D&logo=git&logoColor=7FE719)
 ![CMake](https://img.shields.io/badge/CMake-ED1C24?style=for-the-badge&labelColor=403C3D&logo=git&logoColor=FA5C5C)
