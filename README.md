@@ -48,7 +48,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&labelColor=403C3D&logo=VisualStudioCode&logoColor=007ACC)
 ![Linux](https://img.shields.io/badge/Linux-F15833?style=for-the-badge&labelColor=403C3D&logo=linux&logoColor=F15833)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&labelColor=403C3D&logo=Windows&logoColor=0078D4)
-![MacOS](https://img.shields.io/badge/MacOS-00AF9C?style=for-the-badge&labelColor=403C3D&logo=MacOS&logoColor=00AF9C)
+![MacOS](https://img.shields.io/badge/Mac_OS-00AF9C?style=for-the-badge&labelColor=403C3D&logo=MacOS&logoColor=00AF9C)
 
 <!--
 Showcasing what are current projects that I am working/contributing too
