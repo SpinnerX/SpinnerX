@@ -58,7 +58,7 @@ This is the link to different themes for future reference, https://github.com/an
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=Engine_3D&theme=tokyonight)](https://github.com/SpinnerX/Engine_3D)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=A--Compiler&theme=tokyonight)](https://github.com/SpinnerX/A--Compiler)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=urc-intelligent-systems-2023&theme=tokyonight)](https://github.com/SJSURoboticsTeam/urc-intelligent-systems-2023)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=Mini-Engine-Vulkan&theme=tokyonight)](https://github.com/SpinnerX/Mini-Engine-Vulkan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=mini-engine-vulkan&theme=tokyonight)](https://github.com/SpinnerX/Mini-Engine-Vulkan)
 
 <!--
 **SpinnerX/SpinnerX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
