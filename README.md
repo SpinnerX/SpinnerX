@@ -55,6 +55,7 @@ Showcasing what are current projects that I am working/contributing too
 This is the link to different themes for future reference, https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 -->
 ## Current Open-Source Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=LLSM_Processing_GUI&theme=tokyonight)](https://github.com/abcucberkeley/LLSM_Processing_GUI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=Engine_3D&theme=tokyonight)](https://github.com/SpinnerX/Engine_3D)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=A--Compiler&theme=tokyonight)](https://github.com/SpinnerX/A--Compiler)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=urc-intelligent-systems-2023&theme=tokyonight)](https://github.com/SJSURoboticsTeam/urc-intelligent-systems-2023)
