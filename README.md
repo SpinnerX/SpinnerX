@@ -31,6 +31,8 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&labelColor=403C3D&logo=Arduino&logoColor=00878F)
 ![Rpi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&labelColor=403C3D&logo=Raspberrypi&logoColor=A22846)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=403C3D&logo=Docker&logoColor=2496ED)
+![Conan](https://img.shields.io/badge/Conan-2496ED?style=for-the-badge&labelColor=ADD8E6&logo=Conan&logoColor=2496ED)
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&labelColor=403C3D&logo=OpenCV&logoColor=5C3EE8)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&labelColor=403C3D&logo=GNUBash&logoColor=4EAA25)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&labelColor=403C3D&logo=Zsh&logoColor=F15A24)
