@@ -57,9 +57,10 @@ Showcasing what are current projects that I am working/contributing too
 This is the link to different themes for future reference, https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 -->
 ## Current Open-Source Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engine3d-dev&repo=engine3d&theme=tokyonight)](https://github.com/engine3d-dev/engine3d)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=Engine_3D&theme=tokyonight)](https://github.com/SpinnerX/Engine_3D)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engine3d-dev&repo=engine3d&theme=tokyonight)](https://github.com/engine3d-dev/TheAtlasEngine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=Engine3D-Editor&theme=tokyonight)](https://github.com/SpinnerX/Engine3D-Editor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=Renderer-OpenGL&theme=tokyonight)](https://github.com/SpinnerX/Renderer-OpenGL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engine3d-dev&repo=vulkan-cpp&theme=tokyonight)](https://github.com/engine3d-dev/vulkan-cpp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=urc-intelligent-systems-2023&theme=tokyonight)](https://github.com/SJSURoboticsTeam/urc-intelligent-systems-2023)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=mini-engine-vulkan&theme=tokyonight)](https://github.com/SpinnerX/Mini-Engine-Vulkan)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnerX&repo=display-driver-arduino&theme=tokyonight)](https://github.com/SpinnerX/display-driver-arduino)
