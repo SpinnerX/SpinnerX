@@ -6,14 +6,19 @@
 </h3>
 
 <!-- About Me Information -->
-# Little About Me
+# About Me
 <p>
   <img align="right" height="300" width="300" src="https://media.giphy.com/media/LBFPLXkgoVm80dx6sP/giphy.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoys working on projects<br/><br/>
- ❤️ &emsp; Loves to learn new things and exploring new features<br/><br/>
- 👨‍💻 &emsp; Has fun participating in Hackathons, when I can<br/><br/>
- 🫡 &emsp; Adventurous in exploring new things in low level tech<br/><br/>
+ 👨‍💻 &emsp; Has fun learning about GPU Compute and High-Performance Computing<br/><br/>
+</p>
+
+<!-- Contact Me -->
+# 📬 Contact Me
+<p>
+  📧 &emsp; Email: <a href="heraaronhotmail@gmail.com">heraaronhotmail@gmail.com</a><br/><br/>
+  💼 &emsp; LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/aaron-her">https://www.linkedin.com/in/aaron-her</a><br/><br/>
 </p>
 
 <br/>
